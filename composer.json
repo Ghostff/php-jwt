@@ -1,7 +1,7 @@
 {
-    "name": "ghostff/php-jwt",
+    "name": "ghostff/php74-jwt",
     "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
-    "homepage": "https://github.com/ghostff/php-jwt",
+    "homepage": "https://github.com/ghostff/php74-jwt",
     "keywords": [
         "php",
         "jwt"
