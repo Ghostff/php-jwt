@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Ghostff/php-jwt.svg?branch=master)](https://travis-ci.org/Ghostff/php-jwt)
+[![Build Status](https://travis-ci.org/Ghostff/php74-jwt.svg?branch=master)](https://travis-ci.org/Ghostff/php74-jwt)
 [![Required PHP Version](https://img.shields.io/badge/PHP->=7.4.0-blue?style=flat-square)](https://www.php.net/releases/7_4_0.php)
 
 PHP7.4-JWT
