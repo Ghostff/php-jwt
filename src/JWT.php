@@ -73,7 +73,7 @@ class JWT
      * @uses jsonDecode
      * @uses urlsafeB64Decode
      */
-    public static function decode(string $jwt, $key, array $allowed_algs = [])
+    public static function decode(string $jwt, $key, array $allowed_algs = ['HS256'])
     {
         $timestamp = static::$timestamp === null ? time() : static::$timestamp;
 
